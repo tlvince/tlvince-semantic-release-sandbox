@@ -1,0 +1,22 @@
+{
+  "name": "tlvince-semantic-release-sandbox",
+  "description": "Nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo the grass so little has to do",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "author": "Tom Vincent <npm@tlvince.com> (https://tlvince.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlvince/tlvince-semantic-release-sandbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tlvince/tlvince-semantic-release-sandbox/issues"
+  },
+  "homepage": "https://github.com/tlvince/tlvince-semantic-release-sandbox#readme",
+  "devDependencies": {
+    "semantic-release": "^4.0.1"
+  }
+}
